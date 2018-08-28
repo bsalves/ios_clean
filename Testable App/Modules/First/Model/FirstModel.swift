@@ -18,5 +18,6 @@ struct FirstModel {
     }
     struct ViewModel {
         var customText:String!
+        var customFloat:Float!
     }
 }
